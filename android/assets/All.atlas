@@ -1,0 +1,41 @@
+
+All.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arial_Bold
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 0
+Arial_Regular
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 0
+Times_Bold
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 0
+Times_Regular
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 0
+badlogic
+  rotate: false
+  xy: 2006, 1748
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
